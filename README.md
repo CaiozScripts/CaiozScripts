@@ -1,4 +1,4 @@
-![banner](https://files.catbox.moe/zf8r28.jpg)
+![banner](https://github.com/CaiozScripts/CaiozScripts/assets/117036935/333be751-32b9-4dc1-9610-6eb2f0ccdb82)
 <div align="center">
   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <div id="header">
